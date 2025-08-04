@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Saikohackerteamrm&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikohackerteamrm=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
