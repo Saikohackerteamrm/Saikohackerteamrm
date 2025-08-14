@@ -16,10 +16,16 @@
  
 <h3 align="center"> Sáíkø Hacker Team {R.M}</h3>
  
-## screen menu
+## Certified Ethical Hacker & Red Team Analyst.
 
-<img src="https://github.com/Saikohackerteamrm/MASTER_TOOLS/blob/main/20250810_131013.jpg">
+## First Certificate 
+<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/CWL.jpg">
 
+## Second Certificate 
+<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/D-N-H%20.jpg">
+
+## Third Certificate 
+<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/%20Global%20Tech%20Counsil.jpg">
  
 <!--
 **TEAM+S-H-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
