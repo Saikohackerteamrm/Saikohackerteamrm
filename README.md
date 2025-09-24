@@ -29,12 +29,11 @@
 
  ## Fourth Certificate 
 <img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/20250924_115710.jpg">
-<!--
-**TEAM+S-H-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-### Here are some ideas to get you started:
+
+> Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -46,7 +45,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### > MY PROFILE VISITORS :
+> MY PROFILE VISITORS :
 
 - [![GitHub followers](https://img.shields.io/github/followers/Saikohackerteamrm.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
 
